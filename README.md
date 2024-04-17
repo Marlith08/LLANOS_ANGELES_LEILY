@@ -11,9 +11,7 @@ Este espacio está dedicado a compartir aprendizajes prácticos sobre comunicaci
 
 ### 🛠️ Ejercicios
 
-1. [Actividad 6  Crear una red con un switch y un router - Modo
-
-Físico]()
+1. [Actividad 6  Crear una red con un switch y un router - Modo Físico](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/tree/main/ACTIVIDADES/Actividad_6)
 
 
 ### 🎓 Tutoriales
