@@ -3,6 +3,9 @@
 
 ¡Bienvenidos a mi repositorio sobre Comunicación de Datos y Redes! Aquí encontrarás una colección de trabajos, ejercicios y tutoriales que he realizado durante mi curso universitario, utilizando Cisco Packet Tracer como nuestra herramienta estrella.
 
+- DOCENTE: César Jesus Lara Avila
+- ESTUDIANTE: Marlith Leily Llanos Angeles
+
 ## 📝 Acerca de este Repositorio
 
 Este espacio está dedicado a compartir aprendizajes prácticos sobre comunicación de datos y redes. Cada ejercicio y actividad está diseñado para profundizar en conceptos clave y fomentar la comprensión activa de estos temas fascinantes.
