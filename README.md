@@ -16,7 +16,7 @@ Este espacio está dedicado a compartir aprendizajes prácticos sobre comunicaci
 
 ### 🎓 Tutoriales
 
-[Cisco Packet Tracer]([./proyectos/.md](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/tree/main/Cisco_Packet_Tracer))
+[Cisco Packet Tracer](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/tree/main/Cisco_Packet_Tracer)
 
 
 ## 🛠️ Requisitos
