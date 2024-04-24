@@ -1,4 +1,12 @@
 # **<p align="center">LEARNING THE SHELL</p>**
+# **🐚 INTRODUCCIÓN AL SHELL 🐚**
+
+El Shell es una interfaz de línea de comandos que nos permite interactuar con el sistema operativo de nuestra computadora mediante el uso de comandos de texto. A través del Shell, podemos ejecutar diversas tareas como navegar por el sistema de archivos, manipular archivos y directorios, ejecutar programas y automatizar tareas mediante scripts.
+
+En este archivo, exploraremos los conceptos básicos del Shell y aprenderemos a utilizar algunos de los comandos más comunes. Desde la navegación por el sistema de archivos hasta la manipulación de archivos y la redirección de entrada/salida, este documento proporcionará una guía paso a paso para familiarizarse con el uso del Shell en entornos Unix y Unix-like.
+
+¡Sigue leyendo para descubrir cómo aprovechar al máximo el poder del Shell y mejorar tu flujo de trabajo en la terminal! 🚀
+
 ## **Contenido:**
 
 ## 1. **What is “the Shell”?**
