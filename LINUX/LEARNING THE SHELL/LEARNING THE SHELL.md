@@ -32,7 +32,7 @@ Hacemos uso de Ratón
 
 Utilizamos pwd para ver el nombre del directorio que estamos utilizando.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.006.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.006.png)
 
 - **ls:**
 
@@ -77,15 +77,15 @@ Es utilizado para enumerar el contenido de un directorio, puede ser utilizado de
 
 - **ls -l:** enumera los archivos en el directorio de trabajo en formato largo
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.013.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.013.png)
 
 - **ls -l /etc /bin:** enumera los archivos en el /bin y el /etc directorio de formato largo.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.014.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.014.png)
 
 - **ls -la ..:** Enumera todos los archivos en el padre de trabajo directorio en formato largo
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.015.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.015.png)
 
 Una mirada más cercana a formato largo:
 
@@ -139,7 +139,7 @@ less archivo\_comand
 
 - **Q:** salir
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.024.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.024.png)
 
 - **file:**
 
