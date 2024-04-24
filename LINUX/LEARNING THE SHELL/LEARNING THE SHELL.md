@@ -1,24 +1,23 @@
-﻿**LEARNING THE SHELL**
+# **<p align="center">LEARNING THE SHELL</p>**
+## **Contenido:**
 
-**Contenido:**
-
-1. **What is “the Shell”?**
+## 1. **What is “the Shell”?**
 
 Ingresamos a la terminar y tenemos en cuenta el aviso de Shell donde contine nuestro nombre de usuario y el nombre de la máquina, asimismo el signo dólar.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.001.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.001.png)
 
 Verificamos si todo está correcto, por lo cual ingresamos cualquier palabra y nos debe de retornar error:
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.002.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.002.png)
 
 Procedemos a presionar la tecla de flecha hacia arriba
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.003.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.003.png)
 
 Presionamos la tecla de flecha hacia abajo
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.004.png).
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.004.png).
 
 También podemos hacer uso de las flechas a la izquierda y derecha, estos nos permiten desplazarnos en la línea de comando.
 
@@ -26,9 +25,9 @@ Hacemos uso de Ratón
 
 -Copiar texto:
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.005.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.005.png)
 
-1. **Navigation**
+## 2. **Navigation**
 - **Pwd:**
 
 Utilizamos pwd para ver el nombre del directorio que estamos utilizando.
@@ -39,7 +38,7 @@ Utilizamos pwd para ver el nombre del directorio que estamos utilizando.
 
 Usamos el comando ls para listar los archivos en el directorio de trabajo.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.007.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.007.png)
 
 - **cd**
 
@@ -49,13 +48,13 @@ Usamos cd para cambiar el directorio de trabajo.
 
 En este caso comienzan con el directorio de raíz y sigue el árbol cd /hasta completar la ruta al archivo deseado.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.008.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.008.png)
 
 **Nombres de rutas relativos:**
 
 En esta ruta comienza desde el directorio, donde se utiliza las notaciones especiales de “.” (directorio de trabajo) y “..” (directorio principal)
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.009.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.009.png)
 
 Para caso anterior realizamos una ruta más corta cd con el directorio de trabajo.
 
@@ -63,18 +62,18 @@ Atajos:
 
 Con cd cambiamos de directorio de trabajo a nuestro directorio principal.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.010.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.010.png)
 
-1. **Looking Around**
+## 3. **Looking Around**
 - ls:
 
 Es utilizado para enumerar el contenido de un directorio, puede ser utilizado de las siguientes formas:
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.011.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.011.png)
 
 - **ls /bin**: enumera los archivos en el /bin directorio
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.012.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.012.png)
 
 - **ls -l:** enumera los archivos en el directorio de trabajo en formato largo
 
@@ -90,7 +89,7 @@ Es utilizado para enumerar el contenido de un directorio, puede ser utilizado de
 
 Una mirada más cercana a formato largo:
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.016.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.016.png)
 
 En este caso podemos observar los siguientes (recorrido de derecha a izquierda:
 
@@ -112,31 +111,31 @@ less archivo\_comand
 - **Comandos:**
 - **Page Up or b:** Desplace hacia atrás una página
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.017.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.017.png)
 
 - **Page Down or space:** Desplace hacia adelante una página
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.018.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.018.png)
 
 - **G:** Vaya al final del archivo del texto
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.019.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.019.png)
 
 - **1G:** vaya al principio del archivo de texto
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.020.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.020.png)
 
 - **/characters:** busque en el archivo de texto una ocurrencia, de los caracteres especificados
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.021.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.021.png)
 
 - **N:** repita la búsqueda anterior
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.022.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.022.png)
 
 - **H:** mostrar una lista completa menos comandos y opciones
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.023.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.023.png)
 
 - **Q:** salir
 
@@ -154,11 +153,11 @@ Puede reconocer la mayoría de los tipos de texto
 
 **Ejemplo:**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.025.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.025.png)
 
 En este caso no se muestra nada, porque no hemos subido ningún archivo.
 
-1. **A Guideed Tour**
+## 4. **A Guideed Tour**
 - **cd:** permite cambiar de directorio.
 - **ls:** para enumerar el contenido del directorio.
 - **file** : para determinar su conenido de un archivo interesante
@@ -168,11 +167,11 @@ En este caso no se muestra nada, porque no hemos subido ningún archivo.
 
 - **/**  : directorio raíz donde el sistema del archivo comienza
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.026.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.026.png)
 
 - **/boot** : es donde el kernel y archivos se guardan.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.027.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.027.png)
 
 Y si con los demás comandos.
 
@@ -180,7 +179,7 @@ En el casos de /lb, me sale error
 
 Para crear enlaces simbólicos, utilizamos el ln comando
 
-1. **Manipulating Files**
+## 5. **Manipulating Files**
 - **cp-** : copia archivos y directorios
 - **mv** : mover o cambiar el nombre de archivos y directorios
 - **rm**: eliminar archivos y directorios
@@ -192,19 +191,19 @@ Contamos con los comandos:
 
 - **\***
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.028.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.028.png)
 
 - **?** 
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.029.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.029.png)
 
 - **[characters]**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.030.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.030.png)
 
 - **¡[¡characters]**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.031.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.031.png)
 
 Resumen de comodines y sus significados
 
@@ -223,11 +222,11 @@ Ejemplos de coincidencia de comodines
 
 - **Cp:** copia del programa archivos y directorios (copia un solo archivo)
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.032.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.032.png)
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.033.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.033.png)
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.034.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.034.png)
 
 - **Ejemplos del comando cp**
 - **Mv.** Se mueve o cambia de nombre archivos y directorios.
@@ -237,7 +236,7 @@ Ejemplos de coincidencia de comodines
 - **Mv file1 file2 dir1**
 - **Mv dir1 dir 2**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.035.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.035.png)
 
 - **Ejemplos del comando mv**
 - **Rm:** elimina archivos y directorios
@@ -245,7 +244,7 @@ Ejemplos de coincidencia de comodines
 - **rm -i file1 file2:** como arriba, el usuario se solicita antes de eliminar cada archivo
 - **rm -r dir1 dir 2:** Directorio dir1 y 2 se eliminan juntos
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.036.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.036.png)
 
 - **mkdir:** se utiliza el comando para crear directorios
 - **Comandos wildcards	:**
@@ -253,9 +252,9 @@ Ejemplos de coincidencia de comodines
 - **mv dir ../\*.bak dir2:** Mueve el subdirectorio dir 1 y todos los archivos que terminan en “.bak”
 - **rm \*~:** Elimina todos los archivos en el directorio d etrabajo actual
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.037.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.037.png)
 
-1. **Working with Commands**
+## 6. **Working with Commands**
 
 - **Type:** Mostrar información sobre el tipo de comando 
 - **Which:** localizar un comando
@@ -270,45 +269,45 @@ Sintaxis type comando
 
 Mostramos tres comandos diferentes:
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.038.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.038.png)
 
 - **Which**
 
 Determina la ubicación exacta de un programa ejecutable
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.039.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.039.png)
 
 - **Help**
 
 Tiene una instlación de ayuda incorporada para cada uno de los Shell construidos.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.040.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.040.png)
 
 **#**Cuando aparecen corchetes en la descripción de un comando sintaxis, indica elementos opcionales.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.041.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.041.png)
 
 - **Man:** se utiliza para ver el programa de paginación
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.042.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.042.png)
 
-1. **I/O Redirection**
+## 7. **I/O Redirection**
 
 Salida estándar 
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.043.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.043.png)
 
 - **Sobreescritura**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.044.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.044.png)
 
 - **Entrada estándar:**
 
 La entrada estandar obtiene su contenido del teclado
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.045.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.045.png)
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.046.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.046.png)
 
 - **Tuberías**
 
@@ -316,20 +315,20 @@ Redirecciona la entrada y salida y conecta múltiples comandos
 
 - **ls -l | les** 
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.047.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.047.png)
 
 - **Comandos:**
 - **Ls -lt | head:** muestra los 10 primeros elementos
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.048.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.048.png)
 
 - **Du | sort -nr:** muestra la lista de ordenadores desde muy grande a más pequeño.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.049.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.049.png)
 
 - **Find . +type f +print | wc -1 :** muestra el número total de archivos
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.050.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.050.png)
 
 **Filters:**
 
@@ -337,49 +336,49 @@ Toman entrada estándar y realiza una operación sobre el y envía resultados a 
 
 **Comandos:**
 
-Sort :  Ordena la entrada y emite el resultado de la salida estándar 
+-sort :  Ordena la entrada y emite el resultado de la salida estándar 
 
-Uniq: Elimina líneas duplicadas de datos.
+-uniq: Elimina líneas duplicadas de datos.
 
-Grep : Examina cada línea de dato que recibe de entrada y salida.
+-grep : Examina cada línea de dato que recibe de entrada y salida.
 
-Fmt: Lee texto de entrada y salida estándar.
+-fmt: Lee texto de entrada y salida estándar.
 
-Pr : Toma entrada de texto de entrada estándar y divide los datos en páginas con saltos de página, encabezados y pies
+-pr : Toma entrada de texto de entrada estándar y divide los datos en páginas con saltos de página, encabezados y pies
 
-Head : sale las primer líneas de entrada
+-head : sale las primer líneas de entrada
 
-Tail: Sale las últimas líneas de entrada
+-tail: Sale las últimas líneas de entrada
 
-Tr: Traduce personajes
+-tr: Traduce personajes
 
-Sed: Realiza traducciones de texto amplia
+-sed: Realiza traducciones de texto amplia
 
-Awk : expresión para construir
+-awk : expresión para construir
 
-1. **Expansion:**
+## 8. **Expansion:**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.051.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.051.png)
 
 Implica que coincide con cualquier personaje en un nombre de archivo
 
 - **Expansión de nombre de ruta**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.052.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.052.png)
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.053.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.053.png)
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.054.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.054.png)
 
 - **Expansión tilde**
 
 Se expnde el nombre del directorio de inicio del usuario
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.055.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.055.png)
 
 Si el usuario “foo” tiene cuenta entonces
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.056.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.056.png)
 
 - **Expresión aritmética:**
 
@@ -389,77 +388,77 @@ Si el usuario “foo” tiene cuenta entonces
 
 - **Expresiones anidadas**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.057.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.057.png)
 
 - Con paréntesis individual
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.058.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.058.png)
 
 - **División de enteros y su resto:**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.059.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.059.png)
 
 - **Brace Expansion**
 
 **Nos permite crear múltiples cadenas de texto:**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.060.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.060.png)
 
 **Rango de caracteres individuales**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.061.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.061.png)
 
 **Letras en orden inverso**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.062.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.062.png)
 
 **Los limites pueden estar anidados**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.063.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.063.png)
 
 Nos permite crear lista de archivos o directorios.
 
 Ejemplo:
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.064.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.064.png)
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.065.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.065.png)
 
 - **Parameter Expansion**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.066.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.066.png)
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.067.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.067.png)
 
 - **Quoting**
 
 Nos permiten controlar lo que hemos venido realizando
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.068.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.068.png)
 
 - **Doubles Quotes**
 
 Podemos realizar citas dobles de las siguientes maneras.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.069.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.069.png)
 
 - **Single Quotas**
 
 Para suprimir las expansiones usamos comillas individuales
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.070.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.070.png)
 
 - **Escaping Characters**
 
 Para citar un solo personaje y usamos escape para eliminar el significado
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.071.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.071.png)
 
 - **More backslash Tricks**
 
 Usamos las opciones de formulario largo puede hacer una sola comando en línea muy larga, para lo cual usamos salto de línea.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.072.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.072.png)
 
 También se puede usar los siguiente:
 
@@ -469,13 +468,13 @@ También se puede usar los siguiente:
 - **\\ :** insertar reacción inversa
 - **\f :** enviar a la impresora
 
-1. **Permissions**
+## 9. **Permissions**
 
 Implica que más de un usuario puede controlar u operar una computadora al mismo tiempo
 
 - **chmod:** modifica derechos de acceso a archivos
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.073.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.073.png)
 
 - **Su:** temporalmente convierte al superusuario
 - **Sudo:** temporalmente convierte al super usuario
@@ -484,7 +483,7 @@ Implica que más de un usuario puede controlar u operar una computadora al mismo
 
 **File permissions:**
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.074.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.074.png)
 
 **Valor y su significado**
 
@@ -523,7 +522,7 @@ Cambio de propiedad de  grupo:
 
 Usamos **chgrp**
 
-1. **Job Control**
+## 10. **Job Control**
 
 Comandos:
 
@@ -541,29 +540,29 @@ Poner un programa en el fondo
 
 Nos permite regresar, puesto que el proceso se puso en el fondo.
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.075.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.075.png)
 
 - **Listado de procesos en ejecución:**
 
 Podemos usar **jobs** o **ps** para mostrar la lista de procesos que hemos lanzado
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.076.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.076.png)
 
 - **Matar un proceso:**
 
 Se usa para deshacer un proceso que no responde:
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.077.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.077.png)
 
 **Kil**l es utilizado para matar procesos, donde su propósito es enviar señales a procesos
 
 Señales admitidas
 
-- **1 àSUSPIRAR: Cuelga la seña**
-- **2 àSIGNT: interrumpe la señal**
-- **15 àSIGTERM: Señala la terminación**
-- **9 àSIGKILL: Mata la señal**
+- **1 ASUSPIRAR: Cuelga la seña**
+- **2 ASIGNT: interrumpe la señal**
+- **15 ASIGTERM: Señala la terminación**
+- **9 ASIGKILL: Mata la señal**
 
 Se usa **ps** para obtener la identificación del proceso (PID)
 
-![](Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.078.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/LINUX/LEARNING%20THE%20SHELL/Imagenes/Aspose.Words.cb406443-52a1-43f4-93f0-7e4f3122d1ce.078.png)
