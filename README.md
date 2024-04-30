@@ -15,11 +15,14 @@ Este espacio está dedicado a compartir aprendizajes prácticos sobre comunicaci
 ### 🛠️ Ejercicios
 
 1. [Actividad 6  Crear una red con un switch y un router - Modo Físico](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/tree/main/ACTIVIDADES/Actividad_6)
+2. [Actividad 12  Construyendo una área de red local](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/tree/main/ACTIVIDADES/Actividad_12)
+3. [Actividad 13  TCP/IP](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/tree/main/ACTIVIDADES/Actividad_13)
 
 
 ### 🎓 Tutoriales
 
 [Cisco Packet Tracer](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/tree/main/Cisco_Packet_Tracer)
+
 
 
 ## 🛠️ Requisitos
