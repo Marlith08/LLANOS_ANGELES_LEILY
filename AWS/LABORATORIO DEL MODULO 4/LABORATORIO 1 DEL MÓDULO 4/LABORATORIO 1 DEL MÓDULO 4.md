@@ -1,4 +1,4 @@
-<h1> LABORATORIO 1 MÓDULO 4: LANZAMIENTO DE UNA INSTANCIA EC2 </h1>﻿
+<h1>LABORATORIO 1 MÓDULO 4: LANZAMIENTO DE UNA INSTANCIA EC2</h1>
 
 **Tarea 1: Comenzar a crear la instancia y asignarle un nombre.**
 
