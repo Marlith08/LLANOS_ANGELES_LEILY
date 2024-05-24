@@ -1,6 +1,6 @@
 <h1>LABORATORIO 1 MÓDULO 4: LANZAMIENTO DE UNA INSTANCIA EC2</h1>
 
-**Tarea 1: Comenzar a crear la instancia y asignarle un nombre.**
+<h2> Tarea 1: Comenzar a crear la instancia y asignarle un nombre. </h2>
 
 **1.-Seleccionamos EC2** 
 
@@ -14,24 +14,25 @@
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%201%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.0aefe64f-3641-4651-9282-e9ae6818ddcb.003.png)
 
-**Tarea 2. Imágenes de aplicación y SO**
+<h2>Tarea 2. Imágenes de aplicación y SO</h2>
 
 **4.- En AMI mantenemos Amazon Linux, Amazon Linux 2023 y 64 bits(x86).**
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%201%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.0aefe64f-3641-4651-9282-e9ae6818ddcb.004.png)
 
-**Tarea 3. Elegir el tipo de instancia**
+<h2>Tarea 3. Elegir el tipo de instancia</h2>
 
 **5.- Como instancia mantenemos t2.micro.**
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%201%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.0aefe64f-3641-4651-9282-e9ae6818ddcb.005.png)
 
-**Tarea 4. Seleccionar un par de claves**
+<h2>Tarea 4. Seleccionar un par de claves</h2>
 
 **6.- Seleccionamos vockey**
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%201%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.0aefe64f-3641-4651-9282-e9ae6818ddcb.006.png)
-**Tarea 5. Configuración de red**
+
+<h2>Tarea 5. Configuración de red</h2>
 
 **7.- Seleccionamos editar**
 
@@ -49,19 +50,19 @@
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%201%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.0aefe64f-3641-4651-9282-e9ae6818ddcb.010.png)
 
-**Tarea 6. Configurar el almacenamiento**
+<h2>Tarea 6. Configurar el almacenamiento</h2>
 
 **11.- Mantenemos la configuración de almacenamiento**
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%201%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.0aefe64f-3641-4651-9282-e9ae6818ddcb.011.png)
 
-**Tarea 7: Detalles avanzados**
+<h2>Tarea 7: Detalles avanzados</h2>
 
 **12.- Configuramos un script que será ejecutada en la instancia.**
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%201%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.0aefe64f-3641-4651-9282-e9ae6818ddcb.012.png)
 
-**Tarea 8: Revisar la instancia y lanzarla**
+<h2>Tarea 8: Revisar la instancia y lanzarla</h2>
 
 **13.- Seleccionamos lanzar instancia**
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%201%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.0aefe64f-3641-4651-9282-e9ae6818ddcb.013.png)
@@ -74,7 +75,7 @@
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%201%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.0aefe64f-3641-4651-9282-e9ae6818ddcb.015.png)
 
-**Tarea 9. Acceder a la instancia de EC2**
+<h2>Tarea 9. Acceder a la instancia de EC2</h2>
 
 **16.- Copiamos la dirección DNS IPv4 pública en una nueva pestaña de nuestro buscador.**
 
@@ -82,7 +83,7 @@
 
 **Sale cargando debido a que falta un paso más.**
 
-**Tarea 10. Actualizar el grupo de seguridad**
+<h2>Tarea 10. Actualizar el grupo de seguridad</h2>
 
 **17.- En el panel izquierdo seleccionamos grupos de seguridad.**
 
@@ -92,7 +93,7 @@
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%201%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.0aefe64f-3641-4651-9282-e9ae6818ddcb.018.png)
 
-**Tarea 11: Crear una regla de entrada**
+<h2>Tarea 11: Crear una regla de entrada</h2>
 
 **19.- Click en editar regla de entrada**
 
@@ -108,7 +109,7 @@
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%201%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.0aefe64f-3641-4651-9282-e9ae6818ddcb.020.png)
 
-**Tarea 12. Probar la regla**
+<h2>Tarea 12. Probar la regla</h2>
 
 **21.- Una vez guardada volvemos a la pestaña que intentamos abrir y volvemos a cargar, nos debe de aparecer el nombre colocado en el script.**
 
