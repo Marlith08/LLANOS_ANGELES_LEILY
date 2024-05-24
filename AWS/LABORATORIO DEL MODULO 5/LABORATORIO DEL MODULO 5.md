@@ -1,6 +1,6 @@
 ﻿<h1>LABORATORIO DEL MÓDULO 5: USO DE CLOUDFRONT COMO CDN PARA UN SITIO WEB.</h1>
 
-**Tarea 1. Crear un bucket de S3 mediante AWS CLI**
+<h2>Tarea 1. Crear un bucket de S3 mediante AWS CLI</h2>
 
 **1.-Ingresamos a servicios y seleccionamos cloudshell**
 
@@ -8,7 +8,7 @@
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%205/Imagenes/Aspose.Words.f59b07ce-47bc-4763-a65e-959466a7bdff.002.png)
 
-**Tarea 2. Añadir una política de bucket**
+<h2>Tarea 2. Añadir una política de bucket</h2>
 
 **2.-Seleccionamos servicios y abrimos S3**
 
@@ -58,7 +58,7 @@
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%205/Imagenes/Aspose.Words.f59b07ce-47bc-4763-a65e-959466a7bdff.014.png)
 
-**Tarea 3. Subir un documento HTML**
+<h2>Tarea 3. Subir un documento HTML</h2>
 
 **13.-Selecciona la pestaña Objetos**
 
@@ -80,7 +80,7 @@
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%205/Imagenes/Aspose.Words.f59b07ce-47bc-4763-a65e-959466a7bdff.019.png)
 
-**Tarea 4. Probar el sitio web**
+<h2>Tarea 4. Probar el sitio web</h2>
 
 **18.-Seleccionamos la pestaña propiedades**
 
@@ -94,7 +94,7 @@
 
 **20.-Guardamos**
 
-**Tarea 5. Crear una distribución de CloudFront para servir al sitio web**
+<h2>Tarea 5. Crear una distribución de CloudFront para servir al sitio web</h2>
 
 **21.-Seleccionamos cloudfront**
 
