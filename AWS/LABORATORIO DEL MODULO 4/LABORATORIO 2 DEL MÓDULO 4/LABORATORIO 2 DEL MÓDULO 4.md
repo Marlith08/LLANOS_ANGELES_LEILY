@@ -1,6 +1,6 @@
 ﻿<h1>LABORATORIO 2 DEL MÓDULO 4: CREACIÓN DE UN BUCKET DE S3</h1>
 
-**Tarea 1. Crear un S3 Bucket**
+<h2>Tarea 1. Crear un S3 Bucket</h2>
 
 **1.-Seleccionamos servicios y ingresamos a S3**
 
@@ -26,7 +26,7 @@
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%202%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.561279a5-38c1-4591-9834-c050ffddcdd7.006.png)
 
-**Tarea 2. Añadir una política de bucket para que el contenido esté disponible públicamente**
+<h2>Tarea 2. Añadir una política de bucket para que el contenido esté disponible públicamente</h2>
 
 **7.-Seleccionamos el nombre de nuestro bucket**
 
@@ -48,7 +48,7 @@
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%202%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.561279a5-38c1-4591-9834-c050ffddcdd7.011.png)
 
-**Tarea 3. Subir un documento HTML**
+<h2>Tarea 3. Subir un documento HTML</h2>
 
 **12.-Primero guardamos un archivo index en nuestras carpetas.**
 
@@ -68,7 +68,7 @@
 
 ![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO%20DEL%20MODULO%204/LABORATORIO%202%20DEL%20M%C3%93DULO%204/Imagenes/Aspose.Words.561279a5-38c1-4591-9834-c050ffddcdd7.016.png)
 
-**Tarea 4. Probar el sitio web**
+<h2>Tarea 4. Probar el sitio web</h2>
 
 **16.-Seleccionamos la pestaña propiedades**
 
