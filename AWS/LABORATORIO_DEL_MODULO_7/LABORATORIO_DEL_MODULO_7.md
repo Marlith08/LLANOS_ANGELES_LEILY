@@ -1,46 +1,46 @@
-﻿**Laboratorio del módulo 7: Introducción a IAM**
+# ﻿**Laboratorio del módulo 7: Introducción a IAM**
 
-**Tarea 1. Explorar usuarios y grupos**
+## **Tarea 1. Explorar usuarios y grupos**
 
 - En el menú **servicios** seleccionamos **IAM**
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.001.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.001.png)
 
 - En el panel de la izquierda seleccionamos **Usuarios**
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.002.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.002.png)
 
 - Seleccionamos el nombre **user-1**
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.003.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.003.png)
 
 - Selecciona la pestaña **Grupos**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.004.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.004.png)
 
 - Selecciona la pestaña **Credenciales de seguridad**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.005.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.005.png)
 
 - En el panel de navegación de la izquierda, selecciona **Grupos de usuarios**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.006.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.006.png)
 
 - Selecciona el nombre del grupo **EC2-Support**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.007.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.007.png)
 
 - Selecciona la pestaña **Permisos**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.008.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.008.png)
 
 - En **Nombre de la política**, elige el enlace de la política **AmazonEC2ReadOnlyAccess**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.009.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.009.png)
 
 - Selecciona la pestaña **{} JSON**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.010.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.010.png)
 
 - Los enunciados de una política de IAM tienen la siguiente estructura básica:
   - **Efecto** nos indica si *Permitir* o *Denegar* los permisos.
@@ -50,43 +50,43 @@
 - En el panel de navegación de la izquierda, selecciona **Grupos de usuarios**.
 
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.011.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.011.png)
 
 - Elige el nombre del grupo **S3-Support**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.012.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.012.png)
 
 - Selecciona la pestaña **Permisos**.
 - En **Nombre de la política**, elige el enlace de la política **AmazonS3ReadOnlyAccess**.
 
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.013.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.013.png)
 
 - Selecciona la pestaña **{} JSON**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.014.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.014.png)
 
 - En el panel de navegación de la izquierda, selecciona **Grupos de usuarios**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.015.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.015.png)
 
 - Elige el nombre del grupo **EC2-Admin**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.016.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.016.png)
 
 - Selecciona la pestaña **Permisos**.
 - En **Nombre de la política**, elige el nombre de la política **EC2-Admin-Policy**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.017.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.017.png)
 
 - Selecciona la pestaña **JSON**.
 - En la parte inferior de la pantalla, selecciona **Cancelar** para cerrar la política.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.018.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.018.png)
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.019.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.019.png)
 
-**Escenario empresarial**
+### **Escenario empresarial**
 
 |**Usuario**|**En el grupo**|**Permisos**|
 | :- | :- | :- |
@@ -96,168 +96,168 @@
 **
 
 
-**Tarea 2. Añadir usuarios a grupos**
+## **Tarea 2. Añadir usuarios a grupos**
 
-**Añadir a user-1 al grupo S3-Support**
+### **Añadir a user-1 al grupo S3-Support**
 
 - En el panel de navegación izquierdo, selecciona **Grupos de usuarios**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.020.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.020.png)
 
 - Elige el nombre del grupo **S3-Support**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.021.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.021.png)
 
 - En la pestaña **Usuarios**, elige **Añadir usuarios**.
 - Selecciona **user-1** y después **Añadir usuarios**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.022.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.022.png)
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.023.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.023.png)
 
-**Añadir a user-2 al grupo EC2-Support**
+### **Añadir a user-2 al grupo EC2-Support**
 
 - En el panel de navegación de la izquierda, selecciona **Grupos de usuarios**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.024.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.024.png)
 
 - Utiliza lo aprendido de los pasos anteriores para añadir a *user-2* al grupo *EC2-Support*.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.025.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.025.png)
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.026.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.026.png)
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.027.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.027.png)
 
-**Añadir a user-3 al grupo EC2-Admin**
+### **Añadir a user-3 al grupo EC2-Admin**
 
 - Utiliza lo aprendido de los pasos anteriores para añadir a *user-3* al grupo *EC2-Admin*.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.028.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.028.png)
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.029.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.029.png)
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.030.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.030.png)
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.031.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.031.png)
 
 - En el panel de navegación de la izquierda, selecciona **Grupos de usuarios**.
 - Cada grupo debe tener un **1** en la columna **Usuarios**. Indica el número de usuarios de cada grupo.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.032.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.032.png)
 
-**Tarea 3. Iniciar sesión y probar usuarios**
+## **Tarea 3. Iniciar sesión y probar usuarios**
 
-**Obtener la URL de inicio de sesión de la consola**
+### **Obtener la URL de inicio de sesión de la consola**
 
 - En el panel de navegación de la izquierda, selecciona **Panel**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.033.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.033.png)
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.034.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.034.png)
 
-**Probar permisos de user-1**
+### **Probar permisos de user-1**
 
 - En el panel de navegación de la izquierda, selecciona **Panel**.
 - Inicia sesión con las siguientes credenciales:
   - **Nombre de usuario de IAM:** user-1
   - **Contraseña:** Lab-Password1
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.035.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.035.png)
 
 - Selecciona el menú **Servicios** y luego **S3**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.036.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.036.png)
 
 - Elige el nombre de uno de los buckets y explora el contenido.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.037.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.037.png)
 
 - Selecciona el menú **Servicios** y después **EC2**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.038.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.038.png)
 
 - En el panel de navegación izquierdo, selecciona **Instancias**.
 - No aparece ninguna instancia.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.039.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.039.png)
 
 - En primer lugar, cierra la sesión de *user-1* en la consola:
   - En la esquina superior derecha de la página, selecciona **user-1**.
   - Selecciona **Cerrar sesión**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.040.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.040.png)
 
-**Probar permisos de user-2**
+### **Probar permisos de user-2**
 
 - Inicia sesión con las siguientes credenciales:
   - **Nombre de usuario de IAM:** user-2
   - **Contraseña:** Lab-Password2
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.041.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.041.png)
 
 - Selecciona el menú **Servicios** y después **EC2**.
 - En el panel de navegación de la izquierda, selecciona **Instancias**.
 - Ahora puedes ver una instancia de EC2
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.042.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.042.png)
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.043.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.043.png)
 
 - Selecciona el menú **Estado de la instancia** y, a continuación, selecciona **Detener instancia**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.044.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.044.png)
 
 - Aparece un mensaje de error que indica que *no estás autorizado a realizar esta operación*.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.045.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.045.png)
 
 - Selecciona el menú **Servicios** y luego **S3**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.046.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.046.png)
 
 - Un mensaje de error indica que *no tienes permisos para enumerar buckets* porque *user-2* no tiene permiso para usar Amazon S3.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.047.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.047.png)
 
 - En primer lugar, cierra la sesión de *user-2* en la consola:
   - En la esquina superior derecha de la página, selecciona **user-2**.
   - Selecciona **Cerrar sesión**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.048.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.048.png)
 
-**Probar permisos de user-3**
+### **Probar permisos de user-3**
 
 - Inicia sesión con las siguientes credenciales:
   - **Nombre de usuario de IAM:** user-3
   - **Contraseña:** Lab-Password3
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.049.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.049.png)
 
 - Selecciona el menú **Servicios** y después **EC2**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.050.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.050.png)
 
 - En el panel de navegación de la izquierda, selecciona **Instancias**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.051.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.051.png)
 
 - Selecciona el menú **Estado de la instancia** y, a continuación, selecciona **Detener instancia**.
 - Para confirmar que quieres detener la instancia, selecciona **Detener**.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.052.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.052.png)
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.053.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.053.png)
 
 - Esta vez, la acción se realiza correctamente porque *user-3* tiene permiso para detener instancias de EC2.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.054.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.054.png)
 
 - Cierra la ventana del navegador privado.
 
-![](Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.055.png)
+![](https://github.com/Marlith08/LLANOS_ANGELES_LEILY/blob/main/AWS/LABORATORIO_DEL_MODULO_7/Imagenes/Aspose.Words.4a62318b-2e86-4300-bfb1-27fa99ca0cb9.055.png)
 
-**¡EXCELENTE!**
+### **¡EXCELENTE!**
 
 
 
