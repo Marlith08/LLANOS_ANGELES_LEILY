@@ -1,6 +1,6 @@
-﻿**Módulo 3: consola de AWS**
+# ﻿**Módulo 3: consola de AWS**
 
-**Terminología tecnológica**
+## **Terminología tecnológica**
 
 |**Amazon Simple Storage Service (Amazon S3)**|Servicio proporcionado por AWS que almacena datos para los usuarios en la nube.|
 | :-: | - |
@@ -20,7 +20,7 @@
 
 
 
-**Antecedentes y conceptos erróneos**
+## **Antecedentes y conceptos erróneos**
 
 Los servicios en la nube de AWS incluyen una gran cantidad de herramientas diferentes que funcionan juntas para cubrir todas las necesidades informáticas de un usuario, completamente en la nube.
 
