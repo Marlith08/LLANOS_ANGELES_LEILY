@@ -1,5 +1,7 @@
 ﻿
-**MODULO 8: SEGURIDAD 2**
+# **MODULO 8: SEGURIDAD 2**
+
+## **Terminología tecnológica**
 
 |**Término**|**Definición**|
 | - | - |
@@ -9,7 +11,7 @@
 |**Amazon Inspector**|Servicio de evaluación de seguridad automatizada que prueba la accesibilidad a la red de instancias EC2 y el estado de seguridad de las aplicaciones.|
 |**AWS Artifact**|Proporciona acceso bajo demanda a informes de seguridad y conformidad de AWS, así como a acuerdos en línea.|
 
-**Antecedentes y conceptos erróneos**
+## **Antecedentes y conceptos erróneos**
 
 Se deben abordar cuatro áreas de seguridad para la informática en la nube:
 
