@@ -1,11 +1,12 @@
-﻿**MODULO 16: OPTIMIZACIÓN DE LA NUBE CON AWS CDK**
+#  ﻿**MODULO 16: OPTIMIZACIÓN DE LA NUBE CON AWS CDK**
+## **Terminología tecnológica**
 
 |**Término**|**Definición**|
 | - | - |
 |**AWS CDK**|Marco de desarrollo de software de código abierto que modela y aprovisiona recursos de aplicaciones en la nube.|
 
 
-**Antecedentes y conceptos erróneos**
+#3 **Antecedentes y conceptos erróneos**
 
 **AWS CDK**
 
