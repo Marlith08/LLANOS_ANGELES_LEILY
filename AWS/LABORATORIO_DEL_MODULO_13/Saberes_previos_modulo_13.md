@@ -1,6 +1,6 @@
-﻿**MODULO 13: TECNOLOGÍAS EMERGENTED EN LA NUBE** 
+# ﻿**MÓDULO 13: TECNOLOGÍAS EMERGENTED EN LA NUBE** 
 
-**Terminología tecnológica**
+## **Terminología tecnológica**
 
 |**Término**|**Definición**|
 | :- | :- |
@@ -12,7 +12,7 @@
 |**AWS DeepLens**|Cámara de vídeo completamente programable, con tutoriales, código y modelos previamente entrenados, diseñados para ampliar las destrezas relacionadas con el ML.|
 |**Red neuronal**|Modelo o algoritmo diseñado para tomar decisiones de manera similar a un cerebro humano.|
 
-**Antecedentes y conceptos erróneos**
+## **Antecedentes y conceptos erróneos**
 
 A medida que los programas que creamos se vuelven cada vez más complejos, estos comienzan a parecerse al funcionamiento interno de nuestro propio cerebro. Con el ML y el aprendizaje profundo, podemos comenzar a desarrollar software que aprenda, razone, sea creativo e incluso cree soluciones novedosas para resolver problemas. Estas soluciones pueden abarcar desde coches autónomos hasta la creación de modelos económicos novedosos.
 
