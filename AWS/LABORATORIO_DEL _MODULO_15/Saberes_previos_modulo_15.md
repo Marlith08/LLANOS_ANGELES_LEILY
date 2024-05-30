@@ -1,6 +1,6 @@
-﻿**MODULO 15: OTRAS CARACTERÍSTICAS DE LA NUBE**
+﻿# **MODULO 15: OTRAS CARACTERÍSTICAS DE LA NUBE**
 
-**Terminología tecnológica.**
+## **Terminología tecnológica.**
 
 |**Término**|**Definición**|
 | - | - |
@@ -13,7 +13,7 @@
 |**Transparencia**|Registro transparente y abierto de las transacciones.|
 
 
-**Antecedentes y conceptos erróneos**
+## **Antecedentes y conceptos erróneos**
 
 **Amazon Athena**
 
