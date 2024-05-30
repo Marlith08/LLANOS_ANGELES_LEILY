@@ -1,6 +1,6 @@
-﻿**Módulo 2: Estructuras de la nube**
+# ﻿**Módulo 2: Estructuras de la nube**
 
-**Terminología tecnológica.**
+## **Terminología tecnológica.**
 
 |**Zona de disponibilidad**|Uno o varios centros de datos que albergan muchos servidores. Cada región tiene varias ubicaciones aisladas conocidas como zonas de disponibilidad. Cada zona de disponibilidad está aislada, pero las zonas de disponibilidad de una región están conectadas mediante enlaces de baja latencia. Una zona de disponibilidad se representa mediante un código de región seguido de un identificador de letra, por ejemplo, **us-east-1a.**|
 | :-: | - |
@@ -11,7 +11,7 @@
 |**Región**|Un área en la que se almacenan los datos. El almacenamiento de datos en una región que tiene más cerca explica, entre otros motivos, por qué es posible acceder a ellos a la velocidad de la luz.|
 |**Software como servicio (SaaS)**|<p>Un modelo que proporciona aplicaciones que utilizan Internet gestionadas por un tercero.</p><p></p>|
 
-**Antecedentes y conceptos erróneos**
+##**Antecedentes y conceptos erróneos**
 
 AWS Global Cloud Infrastructure es la plataforma en la nube más segura, extensa y fiable que ofrece más de 200 servicios completos de centros de datos de todo el mundo. Esta infraestructura se compone de muchos componentes diferentes, incluidas regiones, zonas de disponibilidad y ubicaciones de borde. 
 
