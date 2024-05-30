@@ -1,6 +1,6 @@
-﻿**Módulo 1: Infraestructura global**
+# ﻿**Módulo 1: Infraestructura global**
 
-**Terminología técnica**
+## **Terminología técnica**
 
 |**Informática en la nube**|<p>La entrega bajo demanda de potencia de cómputo, bases de datos, almacenamiento, aplicaciones y otros recursos de TI a través de Internet con precios de pago por uso.</p><p></p>|
 | - | - |
@@ -8,7 +8,7 @@
 |**Almacenamiento en la nube**|Guardar datos mediante un proveedor de servicios en la nube (CSP) en lugar de una máquina física.|
 |**Servidor**|Un equipo diseñado para procesar solicitudes y entregar datos a otro equipo a través de Internet o de una red local. En la nube, un servidor está alojado por un proveedor externo al que se accede a través de Internet.|
 
-**Antecedentes y conceptos erróneos**
+## **Antecedentes y conceptos erróneos**
 
 **¿Qué es la informática en la nube?** 
 Cada vez que trabaja o almacena información en línea (por ejemplo, enviar un correo electrónico o ver un vídeo en streaming), a diferencia de en su equipo local o en un servidor de la red local, está utilizando la informática en la nube.
