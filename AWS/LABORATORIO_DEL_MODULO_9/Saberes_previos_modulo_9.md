@@ -1,6 +1,6 @@
-﻿**MODULO 9: MONITOREO DE LA NUBE**
+# ﻿**MODULO 9: MONITOREO DE LA NUBE**
 
-**Terminología tecnológica**
+## **Terminología tecnológica**
 
 |**Término**|**Definición**|
 | - | - |
@@ -9,7 +9,7 @@
 |**AWS Config**|Servicio que permite analizar, auditar y evaluar las configuraciones de los recursos de AWS.|
 |**Amazon Simple Notificación Service (Amazon SNS)**|Herramienta de AWS que permite enviar mensajes de texto, correos electrónicos y notificaciones a otros servicios en la nube y a los clientes de diversas formas.|
 
-**Antecedentes y conceptos erróneos:**
+## **Antecedentes y conceptos erróneos:**
 
 AWS proporciona herramientas poderosas para supervisar todos los servicios en la nube. Funcionan conjuntamente para proporcionar un paquete de servicios que empoderan a los usuarios de la nube con conocimientos.
 
