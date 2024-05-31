@@ -1,6 +1,6 @@
-﻿**MODULO 6: ALMACENAMIENTO VIRTUAL** 
+# ﻿**MODULO 6: ALMACENAMIENTO VIRTUAL** 
 
-**Terminología Tecnológica**
+## **Terminología Tecnológica**
 
 |**Término**|**Definición**|
 | - | - |
@@ -10,7 +10,7 @@
 |**Operaciones de entrada y salida por segundo (IOPS)**|Medida de rendimiento que compara dispositivos de almacenamiento, como HDD y SSD.|
 |**Unidad de estado sólido (SSD)**|Almacenamiento muy rápido que utiliza memoria flash en lugar de un disco giratorio.|
 
-**Antecedentes y conceptos erróneos:**
+## **Antecedentes y conceptos erróneos:**
 
 - El almacenamiento de Amazon EBS se implementa como una serie de bloques de longitud fija que el sistema operativo puede leer y escribir.
 - El almacenamiento de Amazon S3 se implementa como un objeto que la aplicación que lo utiliza debe leer y escribir.
