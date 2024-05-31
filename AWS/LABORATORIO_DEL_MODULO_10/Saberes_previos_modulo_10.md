@@ -1,4 +1,6 @@
-﻿**MODULO 10: BASES DE DATOS**
+# ﻿**MODULO 10: BASES DE DATOS**
+
+## **Teminología Tecnológica**
 
 |**Término**|**Definición**|
 | - | - |
@@ -13,7 +15,7 @@
 |**MySQL**|Sistema de administración de base de datos relacional de código abierto.|
 
 
-Antecedentes y conceptos erróneos.
+## **Antecedentes y conceptos erróneos.**
 
 Las operaciones OLAP son principalmente de solo lectura; es decir, leen los datos y realizan varios tipos de procesamiento, como suma, agrupación y clasificación.
 
