@@ -1,6 +1,6 @@
-﻿**MODULO 14: FRACTURACIÓN Y SOPORTE**
+# ﻿**MODULO 14: FRACTURACIÓN Y SOPORTE**
 
-**Terminología tecnológica**
+## **Terminología tecnológica**
 
 |<p>**Calculadora de costo mensual de AWS**</p><p></p>|<p>Proporciona una factura mensual estimada basada en los requisitos informáticos y de almacenamiento del usuario.</p><p></p>|
 | :-: | :- |
@@ -9,7 +9,7 @@
 |**Facturación unificada**|<p>Con la característica de facturación unificada de Organizations, puede unificar la facturación y los pagos de varias cuentas de AWS. Cada organización de Organizations tiene una cuenta de administración (pagador) que paga los cargos de todas las cuentas miembro (vinculadas).</p><p></p>|
 |**Gerente técnico de cuenta (TAM):**|<p>Este asistente y asesor en la nube dedicado para cuentas de AWS de nivel empresarial responde a preguntas de soporte, monitorea su cuenta en la nube y ofrece recomendaciones para la optimización.</p><p></p>|
 
-**Antecedentes y conceptos erróneos**
+## **Antecedentes y conceptos erróneos**
 
 AWS proporciona varios servicios útiles de facturación y soporte que ayudan a los usuarios de la nube a hacer un uso más eficiente de sus recursos. Estos servicios incluyen una calculadora para estimar los costos mensuales, paneles de facturación para visualizar los gastos y una serie de planes de soporte con precios y servicios diferentes. Para facilitar el pago de servicios a empresas grandes con muchas cuentas, Organizations permite la facturación unificada, lo que habilita a una cuenta a pagar el resto de las cuentas de la organización.
 
