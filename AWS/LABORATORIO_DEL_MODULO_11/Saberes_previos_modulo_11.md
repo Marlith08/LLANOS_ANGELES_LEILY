@@ -1,6 +1,6 @@
-﻿**MODULO 11: EQUILIBRADORES DE CARGA**
+# ﻿**MODULO 11: EQUILIBRADORES DE CARGA**
 
-**Terminología tecnológica**
+## **Terminología tecnológica**
 
 |**Término**|**Definición**|
 | - | - |
@@ -10,7 +10,7 @@
 |**Elastic Load Balancing (ELB)**|Distribuye automáticamente el tráfico entrante de aplicaciones en varios destinos, como instancias de Amazon EC2, contenedores, direcciones IP y funciones de AWS Lambda. Evita la sobrecarga de un solo servidor al dirigir el tráfico hacia otras instancias establecidas previamente.|
 |**Memoria de acceso aleatorio (RAM)**|Almacenamiento volátil y temporal que retiene datos mientras un equipo está en uso. Desaparece una vez que la máquina se apaga o se completa la tarea. La memoria virtual complementa la RAM y se almacena en la memoria de solo lectura (ROM) cuando no hay suficiente memoria temporal disponible.|
 
-**Antecedentes y conceptos erróneos:**
+## **Antecedentes y conceptos erróneos:**
 
 Las herramientas son principalmente aquellas que pueden recuperar datos rápidamente y distribuir datos entre varios servidores en respuesta a los altibajos de la demanda, y lo hacen de una forma rentable en la que solo se cobra por uso.
 
