@@ -1,13 +1,13 @@
-﻿**MODULO 12: ELASTIC BEANSTALK Y CLOUDFORMATION**
+# ﻿**MODULO 12: ELASTIC BEANSTALK Y CLOUDFORMATION**
 
-**Terminología tecnológica**
+## **Terminología tecnológica**
 
 |**AWS Elastic Beanstalk:**|Elastic Beanstalk administra automáticamente los detalles de implementación del aprovisionamiento de capacidad, el balanceo de carga, el escalado automático y el monitoreo del estado de una aplicación. En muchos sentidos, utilizar Elastic Beanstalk es como ejecutar una macro o un archivo por lotes que coloca un contenedor alrededor de una aplicación existente para que se ejecute sin problemas en la nube de Amazon Web Services (AWS).|
 | :-: | - |
 |**AWS CloudFormation:**|<p>Este servicio brinda a los desarrolladores y empresas una manera fácil de crear un conjunto de recursos de AWS relacionados y aprovisionarlos de forma ordenada y previsible. CloudFormation proporciona un medio para combinar una pila de servicios de AWS, similar a escribir macros o archivos por lotes en Linux o Microsoft Windows.</p><p></p>|
 |**Pila**|<p>Conjunto de recursos de AWS que puede administrar como una sola unidad. Puede crear, actualizar o eliminar un conjunto de recursos mediante la creación, actualización o eliminación de pilas.</p><p></p>|
 
-**Antecedentes y conceptos erróneos**
+## **Antecedentes y conceptos erróneos**
 
 **Elastic Beanstalk** es un servicio fácil de utilizar destinado a implementar y escalar aplicaciones y servicios web desarrollados con Java, .NET, PHP, Node.js, Python, Ruby, Go y Docker en servidores conocidos como Apache, Nginx, Passenger, e IIS.
 
