@@ -1,6 +1,6 @@
-﻿**MODULO 7: Seguridad I**
+# ﻿**MODULO 7: Seguridad I**
 
-**Terminología Tecnológica**
+## **Terminología Tecnológica**
 
 |**Término**|**Definición**|
 | :- | :- |
@@ -17,7 +17,7 @@
 |**Notación de objetos JavaScript (JSON)**|Sintaxis para almacenar e intercambiar datos.|
 |**Multi-Factor Authentication (MFA)**|Sistema de seguridad que verifica la identidad mediante múltiples métodos independientes.|
 
-Antecedentes y conceptos erróneos:
+## **Antecedentes y conceptos erróneos:**
 
 Prácticas recomendadas de IAM
 
